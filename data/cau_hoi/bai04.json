@@ -1,0 +1,68 @@
+[
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 我是中国人，你＿＿？ (Còn bạn thì sao?)",
+    "dap_an": [
+      "呢",
+      "吗",
+      "的",
+      "们"
+    ],
+    "giai_thich": "呢 dùng để hỏi lại: \"còn ... thì sao?\""
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Lượng từ nào dùng để đếm số thành viên trong gia đình?",
+    "dap_an": [
+      "口",
+      "岁",
+      "们",
+      "呢"
+    ],
+    "giai_thich": "口 là lượng từ cho thành viên gia đình: 我家有四口人。"
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 你儿子今年＿＿？ (Hỏi tuổi con trai)",
+    "dap_an": [
+      "多大",
+      "什么",
+      "谁",
+      "哪"
+    ],
+    "giai_thich": "Hỏi tuổi dùng 多大: 你儿子今年多大？"
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào nghĩa là 「Tôi không có anh trai」?",
+    "dap_an": [
+      "我没有哥哥。",
+      "我不有哥哥。",
+      "我不是哥哥。",
+      "我没是哥哥。"
+    ],
+    "giai_thich": "Phủ định 有 dùng 没: 没有. Không nói 不有."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 你家有＿＿口人？ (Nhà bạn có mấy người?)",
+    "dap_an": [
+      "几",
+      "谁",
+      "哪",
+      "吗"
+    ],
+    "giai_thich": "几 (mấy) hỏi số lượng nhỏ: 你家有几口人？"
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào đúng ngữ pháp: 「Tôi có hai người anh trai」?",
+    "dap_an": [
+      "我有两个哥哥。",
+      "我有哥哥两个。",
+      "我两个有哥哥。",
+      "我是两个哥哥。"
+    ],
+    "giai_thich": "Thứ tự: 有 + số từ + lượng từ + danh từ: 有两个哥哥."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "muc": 2,
+    "cau_hoi": "Người khác nói 「谢谢」 với bạn. Đáp lại thế nào?",
+    "dap_an": [
+      "不客气",
+      "对不起",
+      "再见",
+      "认识你"
+    ],
+    "giai_thich": "谢谢 (cảm ơn) được đáp lại bằng 不客气 (đừng khách sáo)."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 学生＿＿，你们好！",
+    "dap_an": [
+      "们",
+      "的",
+      "呢",
+      "吗"
+    ],
+    "giai_thich": "们 là hậu tố số nhiều: 学生们 = các học sinh."
+  }
+]

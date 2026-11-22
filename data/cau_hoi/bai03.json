@@ -1,0 +1,46 @@
+[
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 你忙＿＿？ (câu hỏi có/không)",
+    "dap_an": [
+      "吗",
+      "呢",
+      "的",
+      "们"
+    ],
+    "giai_thich": "吗 đặt cuối câu để tạo câu hỏi có/không."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 你是＿＿国人？ (Bạn là người nước nào?)",
+    "dap_an": [
+      "哪",
+      "什么",
+      "谁",
+      "几"
+    ],
+    "giai_thich": "哪 (nào) + 国 hỏi quốc tịch: 你是哪国人？"
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 这是我＿＿书。 (Đây là sách của tôi.)",
+    "dap_an": [
+      "的",
+      "们",
+      "呢",
+      "吗"
+    ],
+    "giai_thich": "的 là trợ từ định ngữ, chỉ sở hữu: 我的书."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: ＿＿是泰国人。 (Cô ấy là người Thái.)",
+    "dap_an": [
+      "她",
+      "他",
+      "你",
+      "我"
+    ],
+    "giai_thich": "她 (cô ấy) dùng cho nữ, 他 (anh ấy) dùng cho nam. Hai chữ đọc giống nhau: tā."
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 今天＿＿？ (Hôm nay ngày mấy?)",
+    "dap_an": [
+      "几号",
+      "什么",
+      "谁",
+      "哪"
+    ],
+    "giai_thich": "几号 dùng để hỏi ngày trong tháng: 今天几号？ Trả lời: 今天九月八号。"
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 今天我＿＿。 (Hôm nay tôi nghỉ.)",
+    "dap_an": [
+      "休息",
+      "新",
+      "电脑",
+      "好看"
+    ],
+    "giai_thich": "休息 là động từ nghĩa là nghỉ ngơi: 今天我休息。"
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 你＿＿做饭吗？ (Bạn biết nấu cơm không?)",
+    "dap_an": [
+      "会",
+      "是",
+      "有",
+      "的"
+    ],
+    "giai_thich": "会 đặt trước động từ để hỏi người đó có biết, có khả năng làm việc gì không."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 你的电脑＿＿好看！ (Máy tính của bạn đẹp thật!)",
+    "dap_an": [
+      "真",
+      "吗",
+      "呢",
+      "们"
+    ],
+    "giai_thich": "真 đứng trước tính từ để nhấn mạnh mức độ: 真好看."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 杨同乐有一个＿＿电脑。 (Đồng Nhạc có một chiếc máy tính mới.)",
+    "dap_an": [
+      "新",
+      "会",
+      "做",
+      "休息"
+    ],
+    "giai_thich": "新 là tính từ, đứng trước danh từ để bổ nghĩa: 新电脑."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 这两个＿＿，你会做吗？ (Hai món này bạn biết làm không?)",
+    "dap_an": [
+      "菜",
+      "会",
+      "新",
+      "喜欢"
+    ],
+    "giai_thich": "菜 là danh từ (món ăn), đi sau số từ + lượng từ: 两个菜."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 同乐，＿＿吗？ (Đồng Nhạc, tan làm chưa?)",
+    "dap_an": [
+      "下班",
+      "电脑",
+      "新",
+      "一些"
+    ],
+    "giai_thich": "下班 là động từ nghĩa là tan làm; 吗 tạo câu hỏi có/không."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "星期天 còn có cách nói khác là gì?",
+    "dap_an": [
+      "星期日",
+      "星期一",
+      "星期六",
+      "星期三"
+    ],
+    "giai_thich": "星期天 và 星期日 đều là Chủ nhật. Nói chuyện thường dùng 星期天 nhiều hơn."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 我会做＿＿菜。 (Tôi biết nấu một vài món.)",
+    "dap_an": [
+      "一些",
+      "吗",
+      "呢",
+      "们"
+    ],
+    "giai_thich": "一些 là số lượng từ (một vài), đứng trước danh từ: 一些菜."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 今天星期＿＿？ (Hôm nay thứ mấy?)",
+    "dap_an": [
+      "几",
+      "什么",
+      "谁",
+      "吗"
+    ],
+    "giai_thich": "Hỏi thứ trong tuần dùng 星期几, không nói 星期什么."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 你会做＿＿？ (Bạn biết làm món gì?)",
+    "dap_an": [
+      "什么",
+      "谁",
+      "几",
+      "的"
+    ],
+    "giai_thich": "什么 hỏi sự vật, đặt ở vị trí của tân ngữ: 你会做什么？"
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào nghĩa là “Tôi không biết nấu món ăn”?",
+    "dap_an": [
+      "我不会做菜。",
+      "我会不做菜。",
+      "我没会做菜。",
+      "我做不会菜。"
+    ],
+    "giai_thich": "Phủ định của 会 là 不会, đặt trước động từ: 不会 + 做菜. Không dùng 没 với 会."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào nghĩa là “Hôm nay là ngày 8 tháng 9”?",
+    "dap_an": [
+      "今天九月八号。",
+      "今天八号九月。",
+      "今天号八月九。",
+      "九月今天八号。"
+    ],
+    "giai_thich": "Thứ tự ngày tháng trong tiếng Trung đi từ lớn đến nhỏ: 年 → 月 → 日/号."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào viết đúng “Thứ Bảy, ngày 16 tháng 5 năm 1992”?",
+    "dap_an": [
+      "1992年5月16日，星期六",
+      "星期六，16日5月1992年",
+      "5月16日1992年，星期六",
+      "16日5月1992年，星期六"
+    ],
+    "giai_thich": "Thứ tự đúng: 年 → 月 → 日/号 → 星期. Thứ trong tuần đặt cuối cùng."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào đúng ngữ pháp: “Em gái tôi 12 tuổi”?",
+    "dap_an": [
+      "我妹妹12岁。",
+      "我妹妹很12岁。",
+      "我妹妹12岁有。",
+      "我妹妹岁12。"
+    ],
+    "giai_thich": "Vị ngữ danh từ chỉ tuổi, ngày tháng có thể đứng trực tiếp sau chủ ngữ, không cần thêm 很 hay 有."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 这是我的新电脑，我很喜欢＿＿。 (Đây là máy tính mới của tôi, tôi rất thích nó.)",
+    "dap_an": [
+      "它",
+      "他",
+      "她",
+      "你"
+    ],
+    "giai_thich": "它 dùng cho đồ vật, con vật. 他 và 她 chỉ người, dù đọc giống 它 là tā."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Điền vào chỗ trống: 我也很＿＿它。 (Tôi cũng rất thích nó.)",
+    "dap_an": [
+      "喜欢",
+      "好看",
+      "新",
+      "电脑"
+    ],
+    "giai_thich": "喜欢 là động từ và có thể mang tân ngữ 它. 好看 và 新 là tính từ nên không đi với tân ngữ."
+  }
+]

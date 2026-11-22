@@ -1,0 +1,46 @@
+[
+  {
+    "muc": 2,
+    "cau_hoi": "Người khác nói 「对不起」 với bạn. Đáp lại thế nào?",
+    "dap_an": [
+      "没关系",
+      "不客气",
+      "谢谢",
+      "再见"
+    ],
+    "giai_thich": "对不起 (xin lỗi) được đáp lại bằng 没关系 (không sao đâu)."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Câu nào hỏi 「Bạn tên là gì?」",
+    "dap_an": [
+      "你叫什么名字？",
+      "你是哪国人？",
+      "你家有几口人？",
+      "你忙吗？"
+    ],
+    "giai_thich": "你叫什么名字？ dùng 什么 (cái gì) + 名字 (tên) để hỏi tên."
+  },
+  {
+    "muc": 2,
+    "cau_hoi": "Điền vào chỗ trống: 我＿＿是老师。 (Tôi không phải là giáo viên.)",
+    "dap_an": [
+      "不",
+      "没",
+      "吗",
+      "也"
+    ],
+    "giai_thich": "Phủ định 是 dùng 不: 我不是老师。 Còn 没 dùng phủ định 有."
+  },
+  {
+    "muc": 3,
+    "cau_hoi": "Câu nào đúng ngữ pháp: 「Tôi cũng rất vui」?",
+    "dap_an": [
+      "我也很高兴。",
+      "我很也高兴。",
+      "也我很高兴。",
+      "我高兴很也。"
+    ],
+    "giai_thich": "Thứ tự: Chủ ngữ + 也 + 很 + tính từ. 也 đứng trước 很."
+  }
+]
